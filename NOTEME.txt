@@ -1,0 +1,11 @@
+************************NoteMe************************
+27/2/2024 written
+Enable SSH
+Write it down in case you forget.
+Enable SSH at IP address: 10.62.0.183 for user: jonathan Access via key file: ssh_key
+
+_______________________________________________________________________________________
+
+The root user can use SSH to access user jonathan with IP address 10.62.0.183 
+using the ssh_key file to access SSH without a password. This file is confidential 
+and safe to access jonathan.bak file. Unauthorized users will not be able to access and read this file.
